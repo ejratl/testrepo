@@ -5,7 +5,7 @@ This is a test repo.
 
 |CodeQL| |Version|
 
-..image:: https://github.com/ejratl/testrepo/workflows/CodeQL/badge.svg?branch=main
+.. image:: https://github.com/ejratl/testrepo/workflows/CodeQL/badge.svg?branch=main
 
 .. image:: https://coveralls.io/repos/github/oasis-open/cti-pattern-validator/badge.svg?branch=master
    :target: https://coveralls.io/github/oasis-open/cti-pattern-validator?branch=master
