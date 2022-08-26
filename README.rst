@@ -3,7 +3,7 @@ test-repo
 
 This is a test repo.
 
-|CodeQL|
+|CodeQL| |Version|
 
 .. image:: https://coveralls.io/repos/github/oasis-open/cti-pattern-validator/badge.svg?branch=master
    :target: https://coveralls.io/github/oasis-open/cti-pattern-validator?branch=master
