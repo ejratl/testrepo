@@ -3,7 +3,7 @@ test-repo
 
 This is a test repo.
 
-|CodeQL| |Version| |Scorecard| |Build_Status| |CodeQL|
+|CodeQL| |Version| |Scorecard| |Build_Status| |CodeQL| |CodeQLL|
 
 .. image:: https://github.com/ejratl/testrepo/workflows/CodeQL/badge.svg?branch=main
 
@@ -28,3 +28,5 @@ Blah
    :target: https://codecov.io/gh/oasis-open/cti-pattern-validator
 .. |Scorecard| image:: https://api.securityscorecards.dev/projects/github.com/oasis-open/cti-pattern-validator/badge 
    :target: https://api.securityscorecards.dev/projects/github.com/oasis-open/cti-pattern-validator
+.. |CodeQLL| image:: https://github.com/oasis-open/cti-pattern-validator/workflows/CodeQL/badge.svg?branch=master
+   :target: https://codecov.io/gh/oasis-open/cti-pattern-validator
